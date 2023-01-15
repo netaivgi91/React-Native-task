@@ -1,0 +1,6 @@
+export const GET_POPULAR_MOVIES = 'get_popular_movies'
+export const GET_POPULAR_MOVIES_SUCCESS = 'get_popular_movies_success'
+export const GET_POPULAR_MOVIES_ERROR = 'get_popular_movies_error'
+export const SET_MOVIE_DATA = 'set_movie_data'
+export const SET_FAVORITES_MOVIES = 'set_favorites_movies'
+export const REMOVE_FROM_FAVORITES = 'remove_from_favorites'

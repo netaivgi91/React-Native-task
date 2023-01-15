@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IsracardTest</string>
+    <string name="facebook_app_id">231997004660808</string>
+    <string name="fb_login_protocol_scheme">fb231997004660808</string>
+</resources>
